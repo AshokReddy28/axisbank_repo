@@ -1,0 +1,2 @@
+uname = ashok
+pwd = Ashok@9999
